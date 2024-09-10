@@ -1,4 +1,4 @@
-package stringPractice;
+package src.stringPractice;
 
 import java.util.ArrayList;
 
